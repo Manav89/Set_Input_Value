@@ -1,0 +1,19 @@
+body{
+    background-color: whitesmoke;
+}
+
+.container{
+    align-items: center;
+    height: 400px;
+    width: 350px;
+    margin-top: 150px;
+    margin-left: 450px;
+}
+
+.main{
+    align-items: center;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: white;
+}
